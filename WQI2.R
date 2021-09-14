@@ -1,6 +1,4 @@
-#Pennsylvania WQI Dashboard
-#STA419-02
-#Cleyde Murillo Jr, Jacob Weishun, Taira Vogt
+#Pennsylvania WQI Dashboard - 2019
 library(shiny)
 library(ggplot2)
 library(data.table)
